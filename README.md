@@ -1,4 +1,4 @@
-# JoseAGonzalezR
+# Jose Angel Gonzalez
 
 ## From Manufacturing Engineer to Data Analyst | Business Intelligence Specialist
 
