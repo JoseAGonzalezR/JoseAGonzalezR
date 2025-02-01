@@ -1,6 +1,6 @@
 # Jose Angel Gonzalez
 
-## From Manufacturing Engineer to Data Analyst | Business Intelligence Specialist
+## Manufacturing Engineer | Data Analyst | Business Intelligence | IT Technical Support
 
 ### Skills:
 #### BigQuery, Business Analysis, Processes, Data Modeling, SQL, Tableau, ETL, Data Viz
@@ -11,7 +11,7 @@
 - Google Data Analytics | Coursera (_July 2024_)	 			        		
 
 ## Education
-- B.S., Industrial Engineering | Tecnologico de Monterrey ITESM Mx (_July 2014_)
+- B.S., Industrial Engineering | Tecnologico de Monterrey Mx.
 
 ## Work Experience
 **Engineering Team Leader (Aug 2011 - Sep 2021)**
