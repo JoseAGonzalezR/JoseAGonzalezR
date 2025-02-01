@@ -50,10 +50,7 @@
   3. How does seasonally adjusted employment compare to non-adjusted figures over-time?
   4. Which industries have experienced the highest growth or decline?
 
-<!---
-Grandpa-3/Grandpa-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 
