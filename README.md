@@ -52,13 +52,3 @@
 
 
 
-
-
-
-
-- 👋 Hi, I’m Jose Angel Gonzalez
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning IT Tech Support
-- 💞️ I’m looking to collaborate on Data Analytics and Business Intelligence
-- 📫 You can reach me at www.linkedin.com/in/jangelgonzalez
-
